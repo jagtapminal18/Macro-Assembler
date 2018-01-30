@@ -6,6 +6,8 @@ Programe files :
   
   2) mdt.py :This is file contain python program to create  Macro Definition Table which take .asm with macro program as input and creates Macro Definition Table .
   
+  3) a.asm : assembly language program with macro definition.It is input file for both codes.
+  
   Execution Of Program:
    1) on terminal : python3 macro.py  
       
